@@ -1,0 +1,30 @@
+.tooltip {
+  position: absolute;
+  width: 135px;
+  height: 75px;
+  padding: 2px;
+  padding-top: 8px;
+  font: 12px sans-serif;
+  color: white;
+  text-align: center;
+  background: #551aaf;
+  border: 0;
+  border-radius: 10px;
+}
+
+.axisText {
+  font-family: sans-serif;
+  font-weight: bold;
+  fill: #551aaf;
+  text-anchor: middle;
+}
+
+h1 {
+	text-align: center;
+	color: red;
+}
+
+p {
+	text-align: center;
+	font: italic bold 12px/30px Georgia, serif
+}
